@@ -1,5 +1,5 @@
 <?php
-namespace vetheslav\smspby;
+namespace mttzzz\smspby;
 
 use GuzzleHttp\Client;
 
