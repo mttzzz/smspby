@@ -1,5 +1,5 @@
 {
-  "name": "vetheslav/smspby",
+  "name": "mttzzz/smspby",
   "description": "Библиотека для рассылки смс сообщений через smsp.by",
   "keywords": ["sms", "смс", "отправка", "рассылка", "smsp.by", "смс.бел", "api"],
   "type": "Library",
@@ -7,13 +7,13 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Slava Shahoyko",
-      "email": "vistova@gmail.com"
+      "name": "Pushka.biz",
+      "email": "info@pushka.biz"
     }
   ],
   "require": {
     "php": ">=5.6.19",
-    "guzzlehttp/guzzle": "6.*"
+    "guzzlehttp/guzzle": "7.*"
   },
   "autoload": {
     "psr-4": {
